@@ -25,4 +25,4 @@ Pandora’s Box is a web application that combines an AI-powered chat interface 
 
 ## 📺 Demo Video
 
-[![Watch the demo]()](https://drive.google.com/file/d/184tQ0CKy-7cnzjeMPBv7jA-qy2S1vEs0/view?usp=drive_link)
+[![Watch the demo](https://github.com/ykshah1309/pandoras-box/blob/main/pandoras_box.png)](https://drive.google.com/file/d/184tQ0CKy-7cnzjeMPBv7jA-qy2S1vEs0/view?usp=drive_link)
